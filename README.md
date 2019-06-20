@@ -9,3 +9,11 @@
   ![Safety-Goggles-Glasses-Economy-clear-Lens-Eye-Protection-Labor-Glasses-Sand-proof-striking-Glasses-Anti-chemical jpg_220x220](https://user-images.githubusercontent.com/37952915/59863466-0d06e580-9385-11e9-9368-8cb92e25b48d.jpg)
 
 
+#
+#
+-  ## What's the project? and how it work?
+
+    In our proposed system, camera network is built by placing a
+camera at the blind's glasses.
+#
+   ![WhatsApp Image 2019-04-16 at 9 55 39 PM(1)](https://user-images.githubusercontent.com/37952915/59880975-b57d6f80-93ae-11e9-85dd-56e47bfb57b4.jpeg)
