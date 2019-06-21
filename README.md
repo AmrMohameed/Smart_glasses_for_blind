@@ -12,7 +12,7 @@
 
 
 
-#
+
 -  ## What's the project? and how it work?
 
     In our proposed system, camera network is built by placing a
@@ -22,11 +22,19 @@ In this process, matching-based face recognition is performed to find out the fa
 
    
      ![power supply](https://user-images.githubusercontent.com/37952915/59888392-ba9ae880-93c7-11e9-93a0-6c568809d9ce.PNG)
-#
+
 
 - ## Requirements and analysis:
 
-  - ### Software:
-  
+  ### Software:
+    Face recogntion:  recognize faces with 98% accuracy which is pretty much as good as humans can do!
+   this is the steps to recognize face:
+   
+    1. First, look at a picture and find all the faces in it
 
+    2. Second, focus on each face and be able to understand that even if a face is turned in a weird direction or in bad lighting, it is still the same person.
+
+    3. Third, be able to pick out unique features of the face that you can use to tell it apart from other people like how big the eyes are, how long the face is, etc.
+
+    4. Finally, compare the unique features of that face to all the people you already know to determine the person’s name.
 
