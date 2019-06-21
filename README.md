@@ -1,4 +1,4 @@
-# Smart_glasses_for_blind
+# Smart glasses for blind
 
 - ##  Project Aims
 
@@ -36,4 +36,8 @@ In this process, matching-based face recognition is performed to find out the fa
     3. Third, be able to pick out unique features of the face that you can use to tell it apart from other people like how big the eyes are, how long the face is, etc.
 
     4. Finally, compare the unique features of that face to all the people you already know to determine the person’s name.
+    
 
+    To know more about face recogntion you may look over this researches :
+https://github.com/ageitgey/face_recognition#face-recognition
+https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
