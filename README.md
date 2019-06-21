@@ -15,9 +15,8 @@
 
 -  ## What's the project? and how it work?
 
-    In our proposed system, camera network is built by placing a
-camera at the blind's glasses.
-    The cameras provide scene around faces of people, and inform blind users who is on the front of him.
+    In our proposed system, camera network is built by placing a camera at the blind's glasses.
+    The cameras provide scene around faces of people and the objects of his surrounding , then inform blind user what and who is on the front of him.
 In this process, matching-based face recognition is performed to find out the faces in the dataset (CSV file).
 
    
