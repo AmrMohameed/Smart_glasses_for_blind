@@ -26,4 +26,7 @@ In this process, matching-based face recognition is performed to find out the fa
 
 - ## Requirements and analysis:
 
+  - ### Software:
+  
+
 
