@@ -44,6 +44,10 @@ https://github.com/ageitgey/face_recognition#face-recognition
 
 https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
 
+http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf
+
+https://gist.github.com/ageitgey/ae340db3e493530d5e1f9c15292e5c74
+
 
  -  ## Simples of input & output:
  
