@@ -92,6 +92,8 @@ In this process, matching-based face recognition is performed to find out the fa
    
    
    
+   ![Detected-with-YOLO--Schreibtisch-mit-Objekten](https://user-images.githubusercontent.com/37952915/59918978-8571b300-9426-11e9-83aa-8786873711fe.jpg)
+
    
    
    
