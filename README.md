@@ -49,7 +49,7 @@ http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf
 https://gist.github.com/ageitgey/ae340db3e493530d5e1f9c15292e5c74
 
 
- -  ## Simples of input & output:
+ -  ## Examples of input & output:
  
  
  ![Capture](https://user-images.githubusercontent.com/37952915/59889655-a1953600-93cd-11e9-9c90-1d234e644e98.PNG)
