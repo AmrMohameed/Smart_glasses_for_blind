@@ -26,7 +26,8 @@ In this process, matching-based face recognition is performed to find out the fa
 - ## Requirements and analysis:
 
   ### Software:
-    Face recogntion:  recognize faces with 98% accuracy which is pretty much as good as humans can do!
+   #### Face recogntion step by step: 
+     recognize faces with 98% accuracy which is pretty much as good as humans can do!
    this is the steps to recognize face:
    
     1. First, look at a picture and find all the faces in it
@@ -38,15 +39,15 @@ In this process, matching-based face recognition is performed to find out the fa
     4. Finally, compare the unique features of that face to all the people you already know to determine the person’s name.
     
 
-    To know more about face recogntion you may look over this researches :
+    To know more about face recogntion you may look over this researches:
 
-https://github.com/ageitgey/face_recognition#face-recognition
+  https://github.com/ageitgey/face_recognition#face-recognition
 
-https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+  https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
 
-http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf
+  http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf
 
-https://gist.github.com/ageitgey/ae340db3e493530d5e1f9c15292e5c74
+  https://gist.github.com/ageitgey/ae340db3e493530d5e1f9c15292e5c74
 
 
  -  ## Examples of input & output:
@@ -70,4 +71,32 @@ https://gist.github.com/ageitgey/ae340db3e493530d5e1f9c15292e5c74
 ![Capture - Copy - Copy - Copy](https://user-images.githubusercontent.com/37952915/59890622-094d8000-93d2-11e9-9922-d002296eee14.PNG)
 
 
+   #
+   #### object detection step by step:
    
+   1. Break the image into overlapping image tiles.
+   2. Feed each image tile into a small neural network.
+   3. Save the results from each tile into a new array.
+   4. Downsampling.
+   
+   To know more about object detection you may look over this researches:
+   
+   https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721
+   http://tflearn.org/
+   https://github.com/tflearn/tflearn/tree/master/examples#tflearn-examples
+   https://gist.github.com/ageitgey/a40dded08e82e59724c70da23786bbf0
+   
+   
+   
+   -  ## Examples of input & output:
+   
+   
+   
+   
+   
+   
+   
+      
+      
+      
+  
