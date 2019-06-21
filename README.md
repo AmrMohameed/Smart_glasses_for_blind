@@ -18,7 +18,7 @@
 camera at the blind's glasses.
     The cameras provide scene around faces of people, and inform blind users who is on the front of him.
 In this process, matching-based face recognition is performed to find out the faces in the dataset (CSV file).
-#
+
    
 ![power supply](https://user-images.githubusercontent.com/37952915/59888392-ba9ae880-93c7-11e9-93a0-6c568809d9ce.PNG)
 
