@@ -63,5 +63,7 @@ https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognit
 
 
 
+![Capture - Copy - Copy - Copy](https://user-images.githubusercontent.com/37952915/59890622-094d8000-93d2-11e9-9922-d002296eee14.PNG)
+
 
    
