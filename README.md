@@ -39,5 +39,14 @@ In this process, matching-based face recognition is performed to find out the fa
     
 
     To know more about face recogntion you may look over this researches :
+
 https://github.com/ageitgey/face_recognition#face-recognition
+
 https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+
+
+ -  ## Simples of input & output:
+ 
+ 
+ 
+   
