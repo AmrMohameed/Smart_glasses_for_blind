@@ -21,6 +21,9 @@ camera at the blind's glasses.
 In this process, matching-based face recognition is performed to find out the faces in the dataset (CSV file).
 
    
-![power supply](https://user-images.githubusercontent.com/37952915/59888392-ba9ae880-93c7-11e9-93a0-6c568809d9ce.PNG)
+     ![power supply](https://user-images.githubusercontent.com/37952915/59888392-ba9ae880-93c7-11e9-93a0-6c568809d9ce.PNG)
+#
+
+- ## Requirements and analysis:
 
 
