@@ -56,6 +56,8 @@ In this process, matching-based face recognition is performed to find out the fa
 
  -  ## Examples of input & output:
  
+  ![face recognition 2gif](https://user-images.githubusercontent.com/37952915/59978079-d75a3a80-95d8-11e9-8828-cb56a16eb55d.gif)
+
  
  ![Capture](https://user-images.githubusercontent.com/37952915/59889655-a1953600-93cd-11e9-9c90-1d234e644e98.PNG)
  
