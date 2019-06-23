@@ -20,26 +20,30 @@
 In this process, matching-based face recognition is performed to find out the faces in the dataset (CSV file).
 
    
-     ![power supply](https://user-images.githubusercontent.com/37952915/59888392-ba9ae880-93c7-11e9-93a0-6c568809d9ce.PNG)
+   ![power supply](https://user-images.githubusercontent.com/37952915/59888392-ba9ae880-93c7-11e9-93a0-6c568809d9ce.PNG)
 
 
 - ## Requirements and analysis:
 
   ### Software:
    #### Face recogntion step by step: 
-     recognize faces with 98% accuracy which is pretty much as good as humans can do!
+   #
+   
+  ![Face recognition](https://user-images.githubusercontent.com/37952915/59977764-aa585880-95d5-11e9-82aa-7b54c9871351.gif)
+
+   recognize faces with 98% accuracy which is pretty much as good as humans can do!
    this is the steps to recognize face:
    
-    1. First, look at a picture and find all the faces in it
+   1. First, look at a picture and find all the faces in it
 
-    2. Second, focus on each face and be able to understand that even if a face is turned in a weird direction or in bad lighting, it is still the same person.
+   2. Second, focus on each face and be able to understand that even if a face is turned in a weird direction or in bad lighting, it is still the same person.
 
-    3. Third, be able to pick out unique features of the face that you can use to tell it apart from other people like how big the eyes are, how long the face is, etc.
+   3. Third, be able to pick out unique features of the face that you can use to tell it apart from other people like how big the eyes are, how long the face is, etc.
 
-    4. Finally, compare the unique features of that face to all the people you already know to determine the person’s name.
+   4. Finally, compare the unique features of that face to all the people you already know to determine the person’s name.
     
 
-    To know more about face recogntion you may look over this researches:
+   To know more about face recogntion you may look over this researches:
 
   https://github.com/ageitgey/face_recognition#face-recognition
 
