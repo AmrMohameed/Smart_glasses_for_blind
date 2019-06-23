@@ -42,16 +42,22 @@ In this process, matching-based face recognition is performed to find out the fa
 
    4. Finally, compare the unique features of that face to all the people you already know to determine the person’s name.
     
+    
+    Examples of face recognition code: 
+
+      import face_recognition
+      image = face_recognition.load_image_file("your_file.jpg")
+      face_locations = face_recognition.face_locations(image)
 
    To know more about face recogntion you may look over this researches:
 
-  https://github.com/ageitgey/face_recognition#face-recognition
+ [Face Recognition](https://github.com/ageitgey/face_recognition#face-recognition)
 
-  https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+ [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 
-  http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf
+  [One Millisecond Face Alignment with an Ensemble of Regression Trees](http://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf)
 
-  https://gist.github.com/ageitgey/ae340db3e493530d5e1f9c15292e5c74
+  [step-2a_finding-face-landmarks.py](https://gist.github.com/ageitgey/ae340db3e493530d5e1f9c15292e5c74)
 
 
  -  ## Examples of input & output:
