@@ -106,6 +106,9 @@ In this process, matching-based face recognition is performed to find out the fa
    3. Save the results from each tile into a new array.
    4. Downsampling.
    
+   ![object detection gif](https://user-images.githubusercontent.com/37952915/59979421-ff9d6580-95e7-11e9-9c3d-3edc4c2e1d18.gif)
+
+   
    To know more about object detection you may look over this researches:
    
    [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
