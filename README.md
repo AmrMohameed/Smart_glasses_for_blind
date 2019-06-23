@@ -43,13 +43,13 @@ In this process, matching-based face recognition is performed to find out the fa
    4. Finally, compare the unique features of that face to all the people you already know to determine the person’s name.
     
     
-    ##### Examples of face recognition code: 
+    ##### Example of face recognition code: 
 
       import face_recognition
       image = face_recognition.load_image_file("your_file.jpg")
-      face_locations = face_recognition.face_locations(image)
-      
-   #
+      face_locations = face_recognition.face_locations(image)  
+  
+   ----------
    
       import face_recognition
       known_image = face_recognition.load_image_file("biden.jpg")
