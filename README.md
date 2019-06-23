@@ -108,10 +108,13 @@ In this process, matching-based face recognition is performed to find out the fa
    
    To know more about object detection you may look over this researches:
    
-   https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721
-   http://tflearn.org/
-   https://github.com/tflearn/tflearn/tree/master/examples#tflearn-examples
-   https://gist.github.com/ageitgey/a40dded08e82e59724c70da23786bbf0
+   [Machine Learning is Fun! Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
+   
+   [TFLearn: Deep learning library featuring a higher-level API for TensorFlow.](http://tflearn.org/)
+   
+   [TFLearn Examples](https://github.com/tflearn/tflearn/tree/master/examples#tflearn-examples)
+   
+   [r_u_a_bird.py](https://gist.github.com/ageitgey/a40dded08e82e59724c70da23786bbf0)
    
    
    
