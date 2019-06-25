@@ -22,6 +22,8 @@ In this process, matching-based face recognition is performed to find out the fa
    
    ![power supply](https://user-images.githubusercontent.com/37952915/59888392-ba9ae880-93c7-11e9-93a0-6c568809d9ce.PNG)
    
+   #
+   ![Face recognition](https://user-images.githubusercontent.com/37952915/59977764-aa585880-95d5-11e9-82aa-7b54c9871351.gif)
    
 -  ##  How it work?
 
@@ -57,7 +59,7 @@ flexibility for the user.”
    #### Face recogntion step by step: 
    #
    
-  ![Face recognition](https://user-images.githubusercontent.com/37952915/59977764-aa585880-95d5-11e9-82aa-7b54c9871351.gif)
+ 
 
    recognize faces with 98% accuracy which is pretty much as good as humans can do!
    this is the steps to recognize face:
