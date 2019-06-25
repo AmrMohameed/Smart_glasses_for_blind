@@ -41,9 +41,7 @@ For image inputs we need the pixel numbers to be
 positive, so we might choose to scale the normalized
 data in the range [0,1] or [0, 255]. For our data-set
 example, the following montage represents the
-normalized data.
-Then >> Recognize face.
-Finally >> send output to microcontroller.
+normalized data.>>Then Recognize face & detect object.>>Finally send output to microcontroller.
 
    4. Fourth step: microcontroller convert the output
 “text” to sound when receives it from the “cloud”.
