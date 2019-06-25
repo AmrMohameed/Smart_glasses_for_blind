@@ -1,4 +1,4 @@
-# Smart glasses for blind
+# Smart glasses for blind             
 
 - ##  Project Aims
 
@@ -50,7 +50,7 @@ Finally >> send output to microcontroller.
 “This sound will be the output for the user, this is more
 flexibility for the user.”
 
-  ![activity digram](https://user-images.githubusercontent.com/37952915/60112020-54b7b380-976f-11e9-8a31-3f5b4dd34ee3.PNG)
+   ![activity digram](https://user-images.githubusercontent.com/37952915/60112020-54b7b380-976f-11e9-8a31-3f5b4dd34ee3.PNG)
 
 
 - ## Requirements and analysis:
@@ -166,3 +166,4 @@ flexibility for the user.”
       
       
   
+  # This project made by "Amr Mohamed" & "Ali Metwally"
