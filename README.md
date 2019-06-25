@@ -137,7 +137,7 @@ flexibility for the user.”
    
    3. Save the results from each tile into a new array.
    
-   4. Downsampling.
+   4. Downsampling. 
    
    ![object detection gif](https://user-images.githubusercontent.com/37952915/59979421-ff9d6580-95e7-11e9-9c3d-3edc4c2e1d18.gif)
 
