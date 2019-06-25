@@ -181,8 +181,77 @@ flexibility for the user.”
    
     ![WhatsApp Image 2019-04-16 at 9 55 39 PM(1)](https://user-images.githubusercontent.com/37952915/60115218-bda22a00-9775-11e9-945f-fe48b87bc33e.jpeg)
 
+#
+
+## Testing:
+  ### Hardware:
+  
+  Hardware testing is usually more detailed and thorough than verication. Testing is needed to ensure that every component of a system is operating as it should and that the system is performing exactly in accordance with the specic local requirements. A comprehensive structured testing program is one that ensures that all aspects of a system are tested. This is especially important for key systems such as electronic voting systems. Testing measures that could be followed include.
+
+• Applying ’non-operating’ tests to ensure that equipment can stand up to
+expected levels of physical handling, such as transit drop tests
+• Examining if appropriate any code ’hard-wired’ in hardware (this code is
+sometimes known as rmware) to ensure its logical correctness and to ensure
+that appropriate standards are followed.
+• Applying qualitative assessments to determine whether the test crite- ria have
+been met.
+
+#### Hardware Test Strategies:
+
+  ##### The hardware test must proceed in main three tests:
+  
+  1. Unit Test
+  
+   • test camera and button
+
+   ![t1](https://user-images.githubusercontent.com/37952915/60115866-305fd500-9777-11e9-8961-60a8e77cafc9.PNG)
+
+   • test sound
+   
+   ![t2](https://user-images.githubusercontent.com/37952915/60116076-a106f180-9777-11e9-9c10-19e033d9d95b.PNG)
+   
+   • Checking the whole system modules are working together:
+   
+   ![t3](https://user-images.githubusercontent.com/37952915/60116227-ecb99b00-9777-11e9-8e02-e8300bed67bd.PNG)
 
 
+   The focus in system testing is testing the interactions
+between components. System testing checks that
+components are compatible, interact correctly and
+transfer the right data at the right time across their
+interfaces
+
+### Software:
+
+Software Testing is an investigation that is
+conducted to provide stakeholders with information about
+the quality of the software product or service being tested.
+Software testing can also provide an objective,
+independent view of the software so that the company can
+recognize and understand the risks of software
+implementation. Testing techniques include the process
+of executing a program or application with the intention of
+ending software errors (errors or other errors) and verifying
+that the software product is suitable for use. Software
+testing involves the execution of a software component or
+system component to evaluate one or more
+properties of interest. In general, these properties indicate the
+extent to which the component or system is being tested:
+• meetsthe requirements ofplanninganddevelopmentofresponds properly to
+all types of input.
+• performs its functions in an acceptable time is suciently usable.
+• can be installed and run in its intended environments, and achieves the general result of the wish of the stakeholder.
+
+#### Software Test Strategies:
+
+##### The hardware test must proceed in main three tests:
+
+![image](https://user-images.githubusercontent.com/37952915/60116564-94cf6400-9778-11e9-867a-9fd5339c949c.png)
+
+
+• test server is running
+
+![st1](https://user-images.githubusercontent.com/37952915/60116757-f5f73780-9778-11e9-9f6f-56a6cc9c69e4.PNG)
 
 
   # This project made by "Amr Mohamed" & "Ali Metwally"
