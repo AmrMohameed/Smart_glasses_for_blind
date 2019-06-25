@@ -163,7 +163,26 @@ flexibility for the user.”
    
       
 ![Captureff](https://user-images.githubusercontent.com/37952915/59920536-1f3b5f00-942b-11e9-8454-02c6dbe35d02.PNG)
+
+
+#
       
-      
-  
+ - ## Hardware Design and Components:
+ 
+   - RaspberryPi 3 B+
+   - camera
+   - 3d printing glasses & models
+   - Battery or Power Bank
+   - Breadboard
+   - Cables 
+   - headphone
+   - Button
+   - Heatsink
+   
+    ![WhatsApp Image 2019-04-16 at 9 55 39 PM(1)](https://user-images.githubusercontent.com/37952915/60115218-bda22a00-9775-11e9-945f-fe48b87bc33e.jpeg)
+
+
+
+
+
   # This project made by "Amr Mohamed" & "Ali Metwally"
