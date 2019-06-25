@@ -27,7 +27,7 @@ In this process, matching-based face recognition is performed to find out the fa
    
 -  ##  How it work?
 
-  1. First step: The user(blind) will click on the
+   1. First step: The user(blind) will click on the
   button.
 
    2. Second step: camera take an images when the user do an action” clicking on the button “ ,then microcontroller receives an images from the camera and resend it to the “cloud”.
