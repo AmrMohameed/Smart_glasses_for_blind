@@ -253,5 +253,6 @@ all types of input.
 
 ![st1](https://user-images.githubusercontent.com/37952915/60116757-f5f73780-9778-11e9-9f6f-56a6cc9c69e4.PNG)
 
+# Thanks.
 
   # This project made by "Amr Mohamed" & "Ali Metwally"
